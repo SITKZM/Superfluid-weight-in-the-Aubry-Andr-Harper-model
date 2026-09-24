@@ -1,0 +1,13 @@
+&input_params
+  temperature = 0.0,
+  N = 987,
+  U = 0.2d0,
+  t = 1.0d0,
+  mu = 0.0d0,
+  lambda = 0.0d0,
+  a = 2.1d0
+  b = 0.0d0,
+  n_c = 1001,
+  criterion = 1e-06,
+  Nstop = 1000
+/
